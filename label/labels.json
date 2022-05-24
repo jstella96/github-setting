@@ -1,0 +1,73 @@
+[
+  {
+    "name": "backend",
+    "color": "9E52A5",
+    "description": "백엔드 작업"
+  },
+  {
+    "name": "frontend",
+    "color": "E46B9C",
+    "description": "프론트엔드 작업"
+  },
+
+  {
+    "name": "db",
+    "color": "86C381", 
+    "description": "db 작업"
+  },
+  {
+    "name": "design",
+    "color": "7057ff",
+    "description": "UI 수정 및 개선 사항 html/css"
+  },
+  {
+    "name": "docs",
+    "color": "5EC0B4",
+    "description": "문서를 개선하거나 추가 할 필요가 있음"
+  },
+  {
+    "name": "feature",
+    "color": "FBCA04",
+    "description": "새로운 기능 추가"
+  },
+  {
+    "name": "bugfix",
+    "color": "d73a4a",
+    "description": "예기치 않은 문제 또는 의도하지 않은 동작(버그)"
+  },
+  {
+    "name": "high priority",
+    "color": "B60205",
+    "description": "중요, 긴급"
+  },
+  {
+    "name": "cleanup",
+    "color": "fef2c0",
+    "description": "코드를 더 깔끔하게 만듬, 코드 작동 방식이나 출력에 대한 부분은 변경 안 함"
+  },
+  {
+    "name": "refactoring",
+    "color": "f29a4e",
+    "description": "코드가 내부적으로 작동하는 방식을 변경. cleanup과는 다름"
+  },
+  {
+    "name": "release",
+    "color": "C5DEF5",
+    "description": "배포 관련 이슈"
+  },
+  {
+    "name": "setup",
+    "color": "696168",
+    "description": "개발 환경 세팅"
+  },
+  {
+    "name": "test",
+    "color": "ccffc4",
+    "description": "테스트 관련 작업"
+  },
+  {
+    "name": "question",
+    "color": "cc317c",
+    "description": "질문만 있는 이슈"
+  }
+]
