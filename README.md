@@ -68,7 +68,7 @@ assignees: ""
 
 3. 추가 된 파일을 github 원격에 push
 
-# Pul Request Template 설정
+# Pull Request Template 설정
 
 1. 적용하려는 repo 최상단에 `.github` 폴더 생성
 2. `.github` 폴더 내부에 `PULL_REQUEST_TEMPLATE.md` 생성
