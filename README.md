@@ -4,7 +4,7 @@
 
 - Github Label 설정
 - Issue Template 설정
-- Puul Request Template 설정
+- Pull Request Template 설정
 - 내 초기 설정
 
 # Github Label 설정
